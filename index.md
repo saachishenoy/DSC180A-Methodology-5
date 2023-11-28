@@ -5,7 +5,6 @@ Section B04, Colin Jenmot
 
 
 **1. What is the most interesting topic covered in your domain this quarter?**
-
 The most interesting topic we covered was the potential applications of search. We saw how search technology is used in many obvious and not-obvious fields and how it is a cornerstone of modern society.
 
 **2. Describe a potential investigation you would like to pursue for your Quarter 2 Project.**
